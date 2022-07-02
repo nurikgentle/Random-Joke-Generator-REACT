@@ -1,0 +1,22 @@
+.jokes-sec {
+    background-color: white;
+    width: 400px;
+    height: 360px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.joke {
+    width: 60%;
+    max-width: 600px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+}
